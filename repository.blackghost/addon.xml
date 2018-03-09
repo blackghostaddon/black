@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.blackghost" name="[COLOR skyblue]Black Ghost Repositorio[/COLOR]" version="1.0" provider-name="Black Ghost">
+    <extension point="xbmc.addon.repository" name="Black Ghost">
+        <info>https://raw.githubusercontent.com/blackghostaddon/black/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/blackghostaddon/black/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/blackghostaddon/black/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Black Ghost Addon Repositorio</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+
