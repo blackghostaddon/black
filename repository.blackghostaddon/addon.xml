@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addons>
-
-    <addon id="repository.blackghostaddon" name="Black Repositorio" version="2.0.2" provider-name="blackghostaddon">
+<addon id="repository.blackghostaddon" name="Black Repositorio" version="2.0.2" provider-name="blackghostaddon">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -17,5 +15,3 @@
     </extension>
 </addon>
 
-
-</addons>
